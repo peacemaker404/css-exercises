@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+.oddnum {
+  background-color: rgba(231, 93, 93, 0.6);
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#num2 {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+.num4 {
+  background-color: rgba(0, 250, 0, 0.6);
+  font-size: 24px;
+  font-weight: bold;
+}
